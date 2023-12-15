@@ -21,4 +21,4 @@ jobs:
         run: npm install
 
       - name: Run search ranking script
-        run: node main.js
+        run: node catchdata.js

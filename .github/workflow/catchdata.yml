@@ -20,5 +20,5 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Run search ranking script
+      - name: Run catchdata script
         run: node catchdata.js

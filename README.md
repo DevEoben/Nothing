@@ -6,5 +6,5 @@ some good ideas are collecting
 - Learning English（AI）
 - Information gatherer writing an article
 - Illustration Generator
-
+- AI artical + boardcast + 运营号（小说，鸡汤）
 - ...
